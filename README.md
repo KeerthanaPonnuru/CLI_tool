@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
-## Usage of Python CLI
+## Usage 
 Run the command below to run the CLI tool replacing architecture with (amd64, arm64, mips, etc.) 
 ```python
 python3 package_statistics.py <architecture>
