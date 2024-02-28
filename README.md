@@ -24,5 +24,4 @@ To develop the command line tool my approach was to first construct the URL from
 
 Additionally, I used flake8 to ensure the code is compliant, mentioned inline comments where required, and also used Docstrings to document the usage of the class and respective functions. Also, I implemented the functions within a class for better organization following Python's best practices. 
 
-##Time taken
-This task took around 3hrs including logic building, implementation, testing and checking for compliance.
+Time taken : This task took around 3hrs including logic building, implementation, testing and checking for compliance.
