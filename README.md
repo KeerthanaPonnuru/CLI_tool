@@ -2,7 +2,7 @@
 python command line tool that takes the architecture (amd64, arm64, mips, etc.) as an argument and downloads the compressed Contents file associated with it from a Debian mirror. The program should parse the file and output the statistics of the top 10 packages that have the most files associated with them.
 
 ## Dependencies Installation
-It is expected that Python (version 3 preferred) is installed.
+It is expected that Python (version 3.0 preferred) is installed.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages such as argparse, gzip, requests, and collections.
 
